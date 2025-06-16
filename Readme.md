@@ -44,7 +44,7 @@ Iris es un shader loader te permite añadir shaders y modificarlos.
 
 Litematica es un mod para renderizar planos de construcciones en timepo real
 
-<a href="https://www.youtube.com/watch?v=0caS6AITTQE" target="_blank">Video de configuración</a>
+[Video de Configuración](https://www.youtube.com/watch?v=0caS6AITTQE)
 
 ### MiniHUD
 
@@ -54,7 +54,7 @@ Muestra información util en pantalla como fps, TPS/MSPT (rendimiento del servid
 
 Ademas muestra las bounding boxes de las estructuras y de los biomas o chunks de slime, etc.
 
-<a href="https://www.youtube.com/watch?v=XLoiNwReI8I" target="_blank">Video de configuración</a>
+[Video de Configuración](https://www.youtube.com/watch?v=XLoiNwReI8I)
 
 ### Tweakero
 
@@ -70,4 +70,5 @@ para elegir lo que quieres.
 
 ### 4. Texture Pack (opcional)
 
-Texture pack modular y customizable <a href="https://vanillatweaks.net/picker/resource-packs/" target="_blank">Vanilla Tweaks</a>, podeis descargar el que proporciono y cambiarlo o crearlo de cero.
+Texture pack modular y customizable [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/), podeis descargar el que proporciono y cambiarlo o crearlo de cero.
+
