@@ -63,12 +63,12 @@ Añade tweaks a la jugabilidad, como hacer zoom:
 Para activarlo entramos a los ajustes pulsando `x + c`entramos a tweaks y abajo del todo `tweakZoom` y en hotkeys abajo
 del todo `zoomActivate` para elegir un boton.
 
-### 3. Configuraciones de Video
+## 3. Configuraciones de Video
 
 Debido los varios mods de configuraciones, las opciones de video son bastante extensas, recomiendo tomarse un tiempo
 para elegir lo que quieres.
 
-### 4. Texture Pack (opcional)
+## 4. Texture Pack (opcional)
 
 Texture pack modular y customizable [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/), podeis descargar el que proporciono y cambiarlo o crearlo de cero.
 
