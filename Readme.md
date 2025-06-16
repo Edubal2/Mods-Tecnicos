@@ -2,10 +2,10 @@
 
 ## 1. Instalación de mods
 
-1. Descargar `archivos.7z` y descomprimir
-2. Con minecraft cerrado ejecutar `fabric-installer-1.0.3.exe` y elegir la versión 1.21.4
-3. Descargar [jdk-24_windows-x64_bin.msi](https://www.oracle.com/es/java/technologies/downloads/#jdk24-windows) y ejecutarlo para asegurar compatibilidad de mods
-4. Extraer `mods.zip` en la carpeta `/.minecraft/mods`
+1. Descargar `fabric-installer-1.0.3.exe` y Con minecraft cerrado ejecutar `fabric-installer-1.0.3.exe` y elegir la versión `1.21.4`.
+2. Descargar [jdk-24_windows-x64_bin.msi](https://www.oracle.com/es/java/technologies/downloads/#jdk24-windows) y ejecutarlo para asegurar compatibilidad de mods.
+3. Descargar y descomprimir `mods.7z` en la carpeta `/.minecraft/mods`.
+4. En la instalación de minecraft cambiar la RAM a minimo 8GB, se hace entrando a instalaciones, 3 puntos editar, mas opciones argumentos JVM y cambiar `-Xmx2G -XX` por `-Xmx8G -XX` o mas.
 
 ## 2. Configuración de mods
 
