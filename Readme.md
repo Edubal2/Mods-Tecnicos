@@ -2,8 +2,8 @@
 
 ## 1. Instalación de mods
 
-1. Descargar `fabric-installer-1.0.3.exe` y Con minecraft cerrado ejecutar `fabric-installer-1.0.3.exe` y elegir la versión `1.21.4`.
-2. Descargar [jdk-24_windows-x64_bin.msi](https://www.oracle.com/es/java/technologies/downloads/#jdk24-windows) y ejecutarlo para asegurar compatibilidad de mods.
+1. Descargar `fabric-installer-1.0.3.exe` y Con minecraft cerrado ejecutar `fabric-installer-1.0.3.exe` y elegir la versión `1.21.4`. 
+2. Descargar <a href="https://www.oracle.com/es/java/technologies/downloads/#jdk24-windows" target="_blank">jdk-24_windows-x64_bin.msi</a> y ejecutarlo para asegurar compatibilidad de mods. 
 3. Descargar y descomprimir `mods.7z` en la carpeta `/.minecraft/mods`.
 4. En la instalación de minecraft cambiar la RAM a minimo 8GB, se hace entrando a instalaciones, 3 puntos editar, mas opciones argumentos JVM y cambiar `-Xmx2G -XX` por `-Xmx8G -XX` o mas.
 
@@ -44,7 +44,7 @@ Iris es un shader loader te permite añadir shaders y modificarlos.
 
 Litematica es un mod para renderizar planos de construcciones en timepo real
 
-[Video de Configuración](https://www.youtube.com/watch?v=0caS6AITTQE)
+<a href="https://www.youtube.com/watch?v=0caS6AITTQE" target="_blank">Video de configuración</a>
 
 ### MiniHUD
 
@@ -54,7 +54,7 @@ Muestra información util en pantalla como fps, TPS/MSPT (rendimiento del servid
 
 Ademas muestra las bounding boxes de las estructuras y de los biomas o chunks de slime, etc.
 
-[Video de Configuración](https://www.youtube.com/watch?v=XLoiNwReI8I)
+<a href="https://www.youtube.com/watch?v=XLoiNwReI8I" target="_blank">Video de configuración</a>
 
 ### Tweakero
 
@@ -70,4 +70,4 @@ para elegir lo que quieres.
 
 ### 4. Texture Pack (opcional)
 
-Texture pack modular y customizable [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/), podeis descargar el que proporciono y cambiarlo o crearlo de cero.
+Texture pack modular y customizable <a href="https://vanillatweaks.net/picker/resource-packs/" target="_blank">Vanilla Tweaks</a>, podeis descargar el que proporciono y cambiarlo o crearlo de cero.
