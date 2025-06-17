@@ -25,9 +25,7 @@ podeis desabilitarlo.
 
 <img src="/imagenes/img_1.png" width="600"/>
 
-Desabilitar la opción de `Enable Distant Generation` y las opciones de`Quality Preset` y `CPU Load`
-
-afectan al rendimiento no recomiendo subirlo de 3.
+Desabilitar la opción de `Enable Distant Generation`. Las opciones de`Quality Preset` y `CPU Load` afectan al rendimiento no recomiendo subirlo de 3.
 
 ### Dynamic FPS
 
