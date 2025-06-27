@@ -27,9 +27,9 @@ podeis desabilitarlo.
 
 Desabilitar la opción de `Enable Distant Generation`. Las opciones de`Quality Preset` y `CPU Load` afectan al rendimiento no recomiendo subirlo de 3.
 
-# Utilizar en el servidor
+#### Utilizar en el servidor
 
-Tras entrar al servidor nos dirigimos a la carpeta `minecraft\Distant_Horizons_server_data` y entramos a la carpeta con el nombre que le hayamos puesto al servidor y dentro descomprimimos el archivo [Distant Horizons Server](https://drive.google.com/drive/folders/1zYSxutNSTf_58lBeGPgJjteYKxixD9Sf?usp=sharing)
+Tras entrar al servidor nos dirigimos a la carpeta `minecraft\Distant_Horizons_server_data` y entramos a la carpeta con el nombre que le hayamos puesto al servidor y dentro descomprimimos el archivo [Distant Horizons Server](https://drive.google.com/drive/folders/1zYSxutNSTf_58lBeGPgJjteYKxixD9Sf?usp=sharing) reemplazando el contenido anterior
 
 ### Dynamic FPS
 
